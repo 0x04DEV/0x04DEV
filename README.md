@@ -8,6 +8,7 @@ I am a programming enthusiast who has spent some of his little spare time in the
 HEN is a small xploit to be able to modify your console of any FAT, SLIM, SUPER SLIM series these files will be updated to the latest version of your console.
 
 
-### [HEN-ULTIMATE](https://github.com/0x04DEV/HEN)
+### [HOST PS3](https://0x04dev.github.io/Evilsa-Host/PS3_host.html)
 
-SOON
+You can now have everything inside a PS3 without a PC
+
